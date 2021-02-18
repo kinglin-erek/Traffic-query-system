@@ -1,2 +1,2 @@
 # Traffic-query-system
-Final design of data structure course
+Final design of Data Structure course
